@@ -20,8 +20,8 @@ In case we have very huge dataset, I applied online loading (by batch) instead o
 </center>
 
 
-### The paremeters of SqueezeNet
-<p></p>
+#### The paremeters of SqueezeNet
+
 <center>
 <img src="img/2.jpg" width="700" height="400"/>
 </center>
@@ -40,7 +40,7 @@ Training & Prediction can be run as follows:
 
 
 ### More information
-* Please refer to the original paper of ZFNet [here](https://arxiv.org/pdf/1602.07360.pdf) for more information.
+* Please refer to the original paper of SqueezeNet [here](https://arxiv.org/pdf/1602.07360.pdf) for more information.
 
 ### Implementation Notes
 * **Note 1**:   
